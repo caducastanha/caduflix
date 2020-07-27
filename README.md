@@ -70,8 +70,8 @@ Por fim, baixe o aplicativo do Expo em seu celular.
 
 ## Como ficou <a name = "usage"></a>
 
-<a href="https://caduflix.vercel.app/" target="_blank" >
-  <img alt="Caduflix" src="./src/assets/img/caduflix.png?raw=true"  width="200px" style="border-radius:20px;"/>
+<a href="https://caduflix.vercel.app/" target="_blank" align="center">
+  <img alt="Caduflix" src="./src/assets/img/banner.png?raw=true"  width="600px" style="border-radius:20px;"/>
 </a>
 
 ## Licença <a name="license"></a>
