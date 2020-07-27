@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-  Uma aplicação inspirada na neteflix onde você adiciona <br \>seus videos favoritos e divide por categorias.
+  Uma aplicação inspirada na netflix onde você adiciona <br \>seus videos favoritos e divide por categorias.
 </h3>
 
 <p align="center">
