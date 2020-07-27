@@ -1,24 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Menu from './components/Menu';
+import data from './data/dados_iniciais.json';
+import BannerMain from './components/BannerMain';
+import Carousel from './components/Carousel';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ background: '#141414' }}>
+      <Menu />
+
+      <BannerMain
+        url={data.categorias[0].videos[0].url}
+        videoTitle={data.categorias[0].videos[0].titulo}
+        videoDescription={'O que é front-end?'}
+      />
+
+      {data.categorias.map((categoria, index) => (
+        <>
+          {
+            index === 0 ?
+              <Carousel
+                ignoreFirstVideo
+                category={categoria}
+              />
+              :
+              <Carousel
+                category={categoria}
+              />
+          }
+        </>
+      ))}
+
     </div>
   );
 }
