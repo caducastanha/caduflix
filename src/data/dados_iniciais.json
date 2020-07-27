@@ -1,46 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Musics",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLhEo84sl0pYUW6Sp9K0ZUecQvheesCuPH"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "titulo": "“Nobody’s Love” is out now",
           "url": "https://www.youtube.com/watch?v=7ghhRHRP6t4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Hello",
+          "url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Too Good At Goodbyes",
+          "url": "https://www.youtube.com/watch?v=J_ub7Etch2U"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Sugar",
+          "url": "https://www.youtube.com/watch?v=09R8_2nJtjg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Perfect",
+          "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Girls Like You",
+          "url": "https://www.youtube.com/watch?v=aJOTlE1K90k"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Believer",
+          "url": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+        }
       ]
     },
     {

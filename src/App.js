@@ -12,7 +12,7 @@ function App() {
       <BannerMain
         url={data.categorias[0].videos[0].url}
         videoTitle={data.categorias[0].videos[0].titulo}
-        videoDescription={'O que é front-end?'}
+        videoDescription={''}
       />
 
       {data.categorias.map((categoria, index) => (
