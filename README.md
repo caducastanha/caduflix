@@ -1,68 +1,78 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Caduflix" src="./src/assets/img/caduflix.png?raw=true"  width="200px" style="border-radius:20px;"/>
+</h1>
 
-## Available Scripts
+<h3 align="center" >
+  Uma aplicação inspirada na neteflix onde você adiciona <br \>seus videos favoritos e divide por categorias.
+</h3>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="https://github.com/caducastanha" target="_blank">
+    <img alt="Made by Cadu Castanha" src="https://img.shields.io/badge/made%20by-caducastanha-informational">
+  </a>
+</p>
 
-### `yarn start`
+<p align="center">
+  <a href="https://github.com/caducastanha" target="_blank" >
+    <img alt="Github - Cadu Castanha" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-castanha-a93153108/" target="_blank" >
+    <img alt="Linkedin - Cadu Castanha" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/cadu_castanha" target="_blank" >
+    <img alt="Twitter - Cadu Castanha" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter">
+  </a>
+  <a href="mailto:caducastanha@gmail.com" target="_blank" >
+    <img alt="Email - Cadu Castanha" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5587981721125"
+        target="_blank" >
+    <img alt="Fale comigo no whatsapp - Cadu Castanha" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
+  </a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Índice
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [Sobre](#about)
+- [Começando](#getting_started)
+- [Como ficou](#usage)
+- [Licença](#license)
 
-### `yarn test`
+## Sobre <a name="about"></a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O objetivo é criar um site com seus videos favoritos utilizando o React.
 
-### `yarn build`
+## Começando <a name="getting_started"></a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este projeto foi desenvolvido usando react.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Pré-requisito
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+É preciso ter o NodeJS, o gerenciador de pacotes yarn.
 
-### `yarn eject`
+### Instalação
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```sh
+# Faça clone do projeto
+$ git clone git@github.com:caducastanha/caduflix.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Entre no projeto
+$ cd caduflix/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Baixe as dependências
+$ yarn
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Execute o projeto
+$ yarn start
+```
 
-## Learn More
+Por fim, baixe o aplicativo do Expo em seu celular.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Como ficou <a name = "usage"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://caduflix.vercel.app/" target="_blank" >
+  <img alt="Caduflix" src="./src/assets/img/caduflix.png?raw=true"  width="200px" style="border-radius:20px;"/>
+</a>
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Licença <a name="license"></a>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
