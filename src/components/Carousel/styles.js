@@ -2,19 +2,18 @@ import styled from 'styled-components';
 
 export const Title = styled.h3`
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 35px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
-  background: red;
+  padding: 20px 20px 20px 0;
   line-height: 1;
-  border-radius: 4px;
+  color: #e5e5e5;
 
   @media (max-width: 800px) {
-    font-size: 18px;
-    padding: 10px;
+    font-size: 22px;
+    padding: 10px 10px 10px 0;
   }
 `;
 
@@ -29,7 +28,7 @@ export const ExtraLink = styled.a`
   @media (max-width: 800px) {
     display: block;
     margin-bottom: 16px;
-    margin-left: 0;
+    margin-left: 0px;
   }
 `;
 
