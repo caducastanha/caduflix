@@ -48,7 +48,7 @@ Este projeto foi desenvolvido usando react.
 
 ### Pré-requisito
 
-É preciso ter o NodeJS, o gerenciador de pacotes yarn.
+É preciso ter o NodeJS e o gerenciador de pacotes yarn.
 
 ### Instalação
 
