@@ -2,19 +2,21 @@ import React from 'react';
 import Logo from '../../assets/img/caduflix.png'
 import './styles.css'
 import Button from '../Button';
-// import ButtonLink from '../ButtonLink';
+import { Link } from 'react-router-dom';
 
 
-export default function Menu() {
+const Menu = () => {
   return (
     <nav className="Menu">
-      <a href="/">
+      <Link to="/">
         <img className='Logo' src={Logo} alt="caduflix" />
-      </a>
+      </Link>
 
-      <Button as="a" className='ButtonLink' href="/">
+      <Button as={Link} className='ButtonLink' to="/cadastro/video">
         Novo video
       </Button>
     </nav>
   );
 }
+
+export default Menu;
