@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-  Uma aplicação inspirada na neteflix onde você adiciona <br \>seus videos favoritos e divide por categorias.
+  Uma aplicação inspirada na netflix onde você adiciona <br \>seus videos favoritos e divide por categorias.
 </h3>
 
 <p align="center">
@@ -70,8 +70,8 @@ Por fim, baixe o aplicativo do Expo em seu celular.
 
 ## Como ficou <a name = "usage"></a>
 
-<a href="https://caduflix.vercel.app/" target="_blank" >
-  <img alt="Caduflix" src="./src/assets/img/caduflix.png?raw=true"  width="200px" style="border-radius:20px;"/>
+<a href="https://caduflix.vercel.app/" target="_blank" align="center">
+  <img alt="Caduflix" src="./src/assets/img/banner.png?raw=true"  width="600px" style="border-radius:20px;"/>
 </a>
 
 ## Licença <a name="license"></a>
