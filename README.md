@@ -48,7 +48,7 @@ Este projeto foi desenvolvido usando react.
 
 ### Pré-requisito
 
-É preciso ter o NodeJS, o gerenciador de pacotes yarn.
+É preciso ter o NodeJS e o gerenciador de pacotes yarn.
 
 ### Instalação
 
@@ -66,7 +66,6 @@ $ yarn
 $ yarn start
 ```
 
-Por fim, baixe o aplicativo do Expo em seu celular.
 
 ## Como ficou <a name = "usage"></a>
 
